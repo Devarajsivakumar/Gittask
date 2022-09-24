@@ -12,6 +12,7 @@ public class Count_Number {
 	        c++;
 		}
 		
+		System.out.println(c);
 		
 	}
 
